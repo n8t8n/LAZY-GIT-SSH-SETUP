@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Treat .DS_Store files as binary to prevent line ending issues if they are accidentally committed
+.DS_Store binary
